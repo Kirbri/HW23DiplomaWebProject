@@ -97,7 +97,7 @@ ____
 Для запуска сборки необходимо перейти в раздел Build with Parameters и нажать кнопку Build
 
 <p align="center">  
-<a href="https://jenkins.autotests.cloud/job/009-Kornilova_Ann_qa_guru-java_23/"><img src="src/test/resources/images/screenshot/HW14_Jenkins.png" alt="Jenkins" width="950"/></a>  
+<a href="https://jenkins.autotests.cloud/job/009-Kornilova_Ann_qa_guru-java_23/"><img src="src\test\resources\images\screenshot\Jenkins_1.png" alt="Jenkins" width="950"/></a>  
 </p>
 
 <a id="jenkins_parameters"></a>
@@ -114,7 +114,7 @@ ____
 - **COMMENT** - комментарий для сборки
 
 <p align="center">  
-<a href="https://jenkins.autotests.cloud/job/005-Kornilova_Ann_qa_guru-java_14_jenkins/build?delay=0sec"><img src="src/test/resources/images/screenshot/HW14_Jenkins_parameters.png" alt="Jenkins" width="950"/></a>  
+<a href="https://jenkins.autotests.cloud/job/005-Kornilova_Ann_qa_guru-java_14_jenkins/build?delay=0sec"><img src="src\test\resources\images\screenshot\Jenkins_2.png" alt="Jenkins" width="950"/></a>  
 </p>
 
 <a href="#table_of_contents">Наверх</a>
@@ -203,30 +203,32 @@ _____
 ### Основная страница отчёта
 
 <p align="center">  
-<img title="Allure Overview Dashboard" src="" width="850">  
+<img title="Allure Overview Dashboard" src="src/test/resources/images/screenshot/Allure_1.png" width="850">  
 </p>  
 
 ### Тест-кейсы
 
+<details>
+
+<summary>Раскройте, для просмотра</summary>
 <p align="center">  
-<img title="Allure Tests" src="" width="850">  
+<img title="Allure Tests" src="src/test/resources/images/screenshot/Allure_2.png" width="850">  
 </p>
 
-<p align="center">  
-<img title="Allure Tests" src="" width="850">  
-</p>
-
-<p align="center">  
-<img title="Allure Tests" src="" width="850">  
-</p>
+</details>>
 
 ### Графики
 
-  <p align="center">  
-<img title="Allure Graphics" src="" width="850">
+<details>
 
-<img title="Allure Graphics" src="" width="850">  
+<summary>Раскройте, для просмотра</summary>
+  <p align="center">  
+<img title="Allure Graphics" src="src/test/resources/images/screenshot/Allure_3.png" width="850">
+
+<img title="Allure Graphics" src="src/test/resources/images/screenshot/Allure_4.png" width="850">  
 </p>
+
+</details>>
 
 <a href="#table_of_contents">Наверх</a>
 
@@ -235,30 +237,30 @@ ___
 <a id="allure-testops"></a>
 ## <a name="Allure_TestOps">Интеграция с [Allure TestOps](https://allure.autotests.cloud/project/4645/dashboards)</a>
 
-### *Allure TestOps Dashboard*
+### Allure TestOps Dashboard
 
 <p align="center">  
-<img title="Allure TestOps Dashboard" src="" width="850">  
+<img title="Allure TestOps Dashboard" src="src/test/resources/images/screenshot/Allure_TestOps_1.png" width="850">  
 </p>  
 
-### *Авто тест-кейсы*
+### Авто тест-кейсы
 
 <p align="center">  
-<img title="Allure TestOps Tests" src="" width="850">  
+<img title="Allure TestOps Tests" src="src/test/resources/images/screenshot/Allure_TestOps_2.png" width="850">  
 </p>
 
 <a href="#table_of_contents">Наверх</a>
 
 ___
 <a id="jira"></a>
-## <a name="Jira">Интеграция с [Jira]()</a>
+## <a name="Jira">Интеграция с [Jira](https://jira.autotests.cloud/browse/HOMEWORK-1415)</a>
 
 <p align="center">  
-<img title="Jira" src="" width="850">  
+<img title="Jira" src="src/test/resources/images/screenshot/Jira_1.png" width="850">  
 </p>
 
 <p align="center">  
-<img title="Jira" src="" width="850">  
+<img title="Jira" src="src/test/resources/images/screenshot/Jira_2.png" width="850">  
 </p>
 
 <a href="#table_of_contents">Наверх</a>
@@ -272,7 +274,7 @@ ____
 ###  <a name="Telegram"> Уведомление в Telegram </a>
 
 <p align="center">  
-<img title="Allure Overview Dashboard" src="" width="550">  
+<img title="Allure Overview Dashboard" src="src/test/resources/images/screenshot/Telegram.png" width="550">  
 </p>
 
 <a href="#table_of_contents">Наверх</a>
@@ -281,7 +283,7 @@ ____
 ###  <a name="Mail"> Уведомление на почту </a>
 
 <p align="center">  
-<img title="Allure Overview Dashboard" src="" width="550">  
+<img title="Allure Overview Dashboard" src="src/test/resources/images/screenshot/Mail_1.png" width="550">  
 </p>
 
 <a href="#table_of_contents">Наверх</a>
@@ -293,37 +295,45 @@ ____
 ##  <a name="Video"> Примеры выполнения тестов </a>
 
 <p align="center">
-<img title="Selenoid Video" src="" width="550" height="350"  alt="video">   
+<img title="Selenoid Video" src="src/test/resources/images/gif/FavoriteTests_2.gif" width="550" height="350"  alt="video">   
 </p>
 
 <details>
-<summary>Ещё примеры выполнения тестов</summary>
+<summary>Раскройте, для просмотра</summary>
 <p align="center">
-<img title="Selenoid Video" src="" width="550" height="350"  alt="video">   
+<img title="Selenoid Video" src="src/test/resources/images/gif/FavoriteTests_2.gif" width="550" height="350"  alt="video">   
 </p>
 
 <p align="center">
-<img title="Selenoid Video" src="" width="550" height="350"  alt="video">   
+<img title="Selenoid Video" src="src/test/resources/images/gif/FavoriteTests_3.gif" width="550" height="350"  alt="video">   
 </p>
 
 <p align="center">
-<img title="Selenoid Video" src="" width="550" height="350"  alt="video">   
+<img title="Selenoid Video" src="src/test/resources/images/gif/LoginTest_1.gif" width="550" height="350"  alt="video">   
 </p>
 
 <p align="center">
-<img title="Selenoid Video" src="" width="550" height="350"  alt="video">   
+<img title="Selenoid Video" src="src/test/resources/images/gif/LoginTest_1.gif" width="550" height="350"  alt="video">   
 </p>
 
 <p align="center">
-<img title="Selenoid Video" src="" width="550" height="350"  alt="video">   
+<img title="Selenoid Video" src="src/test/resources/images/gif/SearchTests_1.gif" width="550" height="350"  alt="video">   
 </p>
 
 <p align="center">
-<img title="Selenoid Video" src="" width="550" height="350"  alt="video">   
+<img title="Selenoid Video" src="src/test/resources/images/gif/SearchTests_2.gif" width="550" height="350"  alt="video">   
 </p>
 
 <p align="center">
-<img title="Selenoid Video" src="" width="550" height="350"  alt="video">   
+<img title="Selenoid Video" src="src/test/resources/images/gif/SearchTests_3.gif" width="550" height="350"  alt="video">   
+</p>
+
+<p align="center">
+<img title="Selenoid Video" src="src/test/resources/images/gif/SearchTests_4.gif" width="550" height="350"  alt="video">   
+</p>
+
+<p align="center">
+<img title="Selenoid Video" src="src/test/resources/images/gif/SearchTests_5.gif" width="550" height="350"  alt="video">   
 </p>
 </details>
 
