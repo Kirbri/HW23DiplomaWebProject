@@ -215,7 +215,7 @@ _____
 <img title="Allure Tests" src="src/test/resources/images/screenshot/Allure_2.png" width="850">  
 </p>
 
-</details>>
+</details>
 
 ### Графики
 
@@ -228,7 +228,7 @@ _____
 <img title="Allure Graphics" src="src/test/resources/images/screenshot/Allure_4.png" width="850">  
 </p>
 
-</details>>
+</details>
 
 <a href="#table_of_contents">Наверх</a>
 
